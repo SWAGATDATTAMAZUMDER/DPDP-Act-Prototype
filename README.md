@@ -1,8 +1,6 @@
 # DPDP Act — Consent & Children's Data Prototype (YouTube India)
 
-A clickable, happy-path prototype designed as part of the **Vedantu Product Management Intern** hiring assignment.
-
-This prototype reimagines how **YouTube India** could handle **verifiable parental consent and data minimisation for under-18 users**, in line with India's **Digital Personal Data Protection (DPDP) Act, 2023**.
+A clickable, happy-path prototype designed as part to re-imagine how **YouTube India** could handle **verifiable parental consent and data minimisation for under-18 users**, in line with India's **Digital Personal Data Protection (DPDP) Act, 2023**.
 
 ## 🔗 Links
 
